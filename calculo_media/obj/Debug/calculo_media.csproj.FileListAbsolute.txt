@@ -1,0 +1,2 @@
+E:\Faculdade Chel\C#\calculo_media\obj\Debug\calculo_media.csproj.AssemblyReference.cache
+E:\Faculdade Chel\C#\calculo_media\obj\Debug\calculo_media.csproj.CoreCompileInputs.cache
